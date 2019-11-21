@@ -1,0 +1,8 @@
+Start Date,Start Time,End Date,End Time,PlayerID,Table Name,Game Type,Table Type,Stakes,,AM/PM,,,,,,
+Start Date,Start Time,End Date,End Time,PlayerID,Table Name,Game Type,Table Type,Stakes,,24 Hour Clock,,,,,,
+Start Date,Start Time,End Date,End Time,PlayerID,Table Name,Game Type,Stakes,,,AM/PM,,,,,,
+Start Date,Start Time,End Date,End Time,PlayerID,Table Name,Game Type,Stakes,,,24 Hour Clock,,,,,,
+Start Date,End Date,PlayerID,Table Name,Game Type,Table Type,Stakes,,,,AM/PM,MM/DD/YYYY HH:MM:SS,,"These will have the user enter the Date & Time in the same cell, rather than over 2 cells",,,
+Start Date,End Date,PlayerID,Table Name,Game Type,Table Type,Stakes,,,,24 Hour Clock,MM/DD/YYYY HH:MM:SS,,,,,
+Start Date,End Date,PlayerID,Table Name,Game Type,Stakes,,,,,AM/PM,MM/DD/YYYY HH:MM:SS,,,,,
+Start Date,End Date,PlayerID,Table Name,Game Type,Stakes,,,,,24 Hour Clock,MM/DD/YYYY HH:MM:SS,,,,,
