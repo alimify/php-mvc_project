@@ -75,7 +75,7 @@ protected function getDaywName(){
 	header('Content-Type: application/json');
 	$viewmodel = new HomeModel();
 	echo json_encode($viewmodel->getDaywName());	
-		}
+}
 protected function showdatevent(){
 	Module::loginCheck();
 	$model = new HomeModel();
@@ -87,7 +87,7 @@ protected function createDateEvent(){
 	header('Content-Type: application/json');
 	$viewmodel = new HomeModel();
 	echo json_encode($viewmodel->createDateEvent());	
-		}
+}
 
 
 }
